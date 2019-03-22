@@ -1,0 +1,11 @@
+/Users/nate/Documents/SourceCode/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.deps.json
+/Users/nate/Documents/SourceCode/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.json
+/Users/nate/Documents/SourceCode/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.runtimeconfig.dev.json
+/Users/nate/Documents/SourceCode/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.dll
+/Users/nate/Documents/SourceCode/HelloWorld/bin/Debug/netcoreapp2.2/HelloWorld.pdb
+/Users/nate/Documents/SourceCode/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csprojAssemblyReference.cache
+/Users/nate/Documents/SourceCode/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/nate/Documents/SourceCode/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfoInputs.cache
+/Users/nate/Documents/SourceCode/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.AssemblyInfo.cs
+/Users/nate/Documents/SourceCode/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.dll
+/Users/nate/Documents/SourceCode/HelloWorld/obj/Debug/netcoreapp2.2/HelloWorld.pdb
